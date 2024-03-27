@@ -1,0 +1,26 @@
+{
+  "name": "teafirstpackage",
+  "version": "1.2.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/duanjiaqing/teafirstpackage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/duanjiaqing/teafirstpackage/issues"
+  },
+  "homepage": "https://github.com/duanjiaqing/teafirstpackage#readme",
+  "dependencies": {
+    "kit": "^0.1.2",
+    "koa": "^2.15.2",
+    "md5": "^2.3.0",
+    "rea": "^0.0.1"
+  }
+}
